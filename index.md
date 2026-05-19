@@ -29,4 +29,4 @@ This wiki serves as the central hub for our team project, designed to streamline
 
 # 🎀 Quick Access 🎀
 ### 📖 View the full usage guide here
-[✨ How to Use Our Wiki ✨](how-to-use-wiki.md)
+[✨ How to Use Our Wiki ✨](how-to-use-wiki.html)

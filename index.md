@@ -26,3 +26,7 @@ This wiki serves as the central hub for our team project, designed to streamline
 - 📝 Meeting Minutes & Decisions
 - ✅ Task Assignments & Deadlines
 - 🛠️ Shared Knowledge Base & Resources
+
+# 🎀 Quick Access 🎀
+### 📖 View the full usage guide here
+[✨ How to Use Our Wiki ✨](how-to-use-wiki.md)

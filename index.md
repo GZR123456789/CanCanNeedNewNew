@@ -13,12 +13,12 @@ This wiki serves as the central hub for our team project, designed to streamline
 ---
 
 ## 👥 Team Members
-| Role               | Name           |
-|--------------------|----------------|
-| **Wiki Champion**  | Guo Zurui      |
-| Wiki Member        | Zhang Dongliang|
-| Wiki Member        | Zhang Guanhua  |
-| Wiki Member        | Li Jialu       |
+| Role           | Name          |
+|----------------|---------------|
+| Wiki Champion  | Guo Zurui     |
+| Wiki Member    | Zhang Dongliang|
+| Wiki Member    | Zhang Guanhua |
+| Wiki Member    | Li Jialu      |
 
 ---
 
